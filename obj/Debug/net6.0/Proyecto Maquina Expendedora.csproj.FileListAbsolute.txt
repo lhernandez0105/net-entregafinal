@@ -1,0 +1,14 @@
+D:\NET\Proyecto Maquina Expendedora\bin\Debug\net6.0\Proyecto Maquina Expendedora.exe
+D:\NET\Proyecto Maquina Expendedora\bin\Debug\net6.0\Proyecto Maquina Expendedora.deps.json
+D:\NET\Proyecto Maquina Expendedora\bin\Debug\net6.0\Proyecto Maquina Expendedora.runtimeconfig.json
+D:\NET\Proyecto Maquina Expendedora\bin\Debug\net6.0\Proyecto Maquina Expendedora.dll
+D:\NET\Proyecto Maquina Expendedora\bin\Debug\net6.0\Proyecto Maquina Expendedora.pdb
+D:\NET\Proyecto Maquina Expendedora\obj\Debug\net6.0\Proyecto Maquina Expendedora.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET\Proyecto Maquina Expendedora\obj\Debug\net6.0\Proyecto Maquina Expendedora.AssemblyInfoInputs.cache
+D:\NET\Proyecto Maquina Expendedora\obj\Debug\net6.0\Proyecto Maquina Expendedora.AssemblyInfo.cs
+D:\NET\Proyecto Maquina Expendedora\obj\Debug\net6.0\Proyecto Maquina Expendedora.csproj.CoreCompileInputs.cache
+D:\NET\Proyecto Maquina Expendedora\obj\Debug\net6.0\Proyecto Maquina Expendedora.dll
+D:\NET\Proyecto Maquina Expendedora\obj\Debug\net6.0\refint\Proyecto Maquina Expendedora.dll
+D:\NET\Proyecto Maquina Expendedora\obj\Debug\net6.0\Proyecto Maquina Expendedora.pdb
+D:\NET\Proyecto Maquina Expendedora\obj\Debug\net6.0\Proyecto Maquina Expendedora.genruntimeconfig.cache
+D:\NET\Proyecto Maquina Expendedora\obj\Debug\net6.0\ref\Proyecto Maquina Expendedora.dll
